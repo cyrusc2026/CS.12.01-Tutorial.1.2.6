@@ -1,3 +1,4 @@
+//I have neither given nor received unauthorized aid on this piece of work.
 public class Mountain {
     public static boolean isIncreasing(int[] array, int stop) {
         for (int i = 0; i < stop; i++){
